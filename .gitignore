@@ -1,0 +1,19 @@
+# Compiled Binaries
+*.exe
+*.o
+*.obj
+
+# Pattern Databases / Large Binaries
+*.db
+*.dat
+
+# Python virtual environments & cache
+__pycache__/
+*.pyc
+.venv/
+env/
+
+.vscode/
+cube_solver.exe
+corner.pdb
+corners.db
